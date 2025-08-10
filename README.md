@@ -1,5 +1,5 @@
 Информация:
-Перевод квестов модпака BMC4
+Перевод квестов модпака BMC4 (v45.5+)
 Ссылка на сам [модпак](https://www.curseforge.com/minecraft/modpacks/better-mc-forge-bmc4) 
 
 Установка:
